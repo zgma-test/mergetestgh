@@ -1,0 +1,72 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "42eda49a-56dc-4f0a-99ba-63f2ca3dd3f0": {
+        "id": "42eda49a-56dc-4f0a-99ba-63f2ca3dd3f0",
+        "parent": null,
+        "name": "MergeTestGH.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "MergeTestGH.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs14.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "MergeTestGH"
+        },
+        "triggers": [],
+        "lastUpdated": 1628139096875
+      }
+    },
+    "openFiles": [
+      "42eda49a-56dc-4f0a-99ba-63f2ca3dd3f0"
+    ],
+    "currentFileId": "42eda49a-56dc-4f0a-99ba-63f2ca3dd3f0",
+    "resources": {},
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.9.4",
+    "projectName": "MergeTestGH",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1628139104891
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "mergetestgh",
+      "url": "https://github.com/zgma-test/mergetestgh"
+    }
+  }
+}
