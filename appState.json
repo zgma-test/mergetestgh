@@ -11,8 +11,8 @@
         "isRemovable": true,
         "filePath": "MergeTestGH.js",
         "cursor": {
-          "lineNumber": 2,
-          "column": 5
+          "lineNumber": 3,
+          "column": 48
         },
         "config": {
           "runtime": "nodejs14.x",
@@ -60,7 +60,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1628139104891
+    "lastSave": 1628139157918
   },
   "VCS_STATE": {
     "provider": "GitHub",

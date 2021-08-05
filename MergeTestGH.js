@@ -1,4 +1,4 @@
 exports.handler = async (event) => {
     
-    return {"message": "Successfully executed 1"};
+    return {"message": "Successfully executed 2"};
 };
